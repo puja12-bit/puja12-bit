@@ -1,4 +1,6 @@
-## Disclaimer, not a developer per say, but love experimenting how systems work end to end. Trying to figure the same by vibecode my own requirements, debugging them and checking if I have sales and marketing skill to make them lovable by u guys. 
+## Disclaimer, not a developer per say, but love experimenting how systems work end to end. 
+
+## Trying to figure out the same by vibecoding my own requirements, debugging them and checking if I have sales and marketing skill to make them lovable by u guys😉 
 
 
 **So far came up with bunch of ideas but even with vibecoding I couldn't exactly print the blueprint of my idea that was in my brain
